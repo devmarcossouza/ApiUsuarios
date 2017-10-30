@@ -1,0 +1,11 @@
+E:\projetocsharp\ApiUsuarios\ApiUsuarios\ApiUsuarios\bin\Debug\netcoreapp2.0\ApiUsuarios.deps.json
+E:\projetocsharp\ApiUsuarios\ApiUsuarios\ApiUsuarios\bin\Debug\netcoreapp2.0\ApiUsuarios.runtimeconfig.json
+E:\projetocsharp\ApiUsuarios\ApiUsuarios\ApiUsuarios\bin\Debug\netcoreapp2.0\ApiUsuarios.runtimeconfig.dev.json
+E:\projetocsharp\ApiUsuarios\ApiUsuarios\ApiUsuarios\bin\Debug\netcoreapp2.0\ApiUsuarios.dll
+E:\projetocsharp\ApiUsuarios\ApiUsuarios\ApiUsuarios\obj\Debug\netcoreapp2.0\ApiUsuarios.csprojResolveAssemblyReference.cache
+E:\projetocsharp\ApiUsuarios\ApiUsuarios\ApiUsuarios\obj\Debug\netcoreapp2.0\ApiUsuarios.csproj.CoreCompileInputs.cache
+E:\projetocsharp\ApiUsuarios\ApiUsuarios\ApiUsuarios\obj\Debug\netcoreapp2.0\ApiUsuarios.AssemblyInfoInputs.cache
+E:\projetocsharp\ApiUsuarios\ApiUsuarios\ApiUsuarios\obj\Debug\netcoreapp2.0\ApiUsuarios.AssemblyInfo.cs
+E:\projetocsharp\ApiUsuarios\ApiUsuarios\ApiUsuarios\bin\Debug\netcoreapp2.0\ApiUsuarios.pdb
+E:\projetocsharp\ApiUsuarios\ApiUsuarios\ApiUsuarios\obj\Debug\netcoreapp2.0\ApiUsuarios.dll
+E:\projetocsharp\ApiUsuarios\ApiUsuarios\ApiUsuarios\obj\Debug\netcoreapp2.0\ApiUsuarios.pdb
